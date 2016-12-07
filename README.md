@@ -1,8 +1,8 @@
 # Getting started
 Download from GitHub
 
-    git clone git@github.com:gruber/NN-Decoding.git
-    cd NN-Decoding/docker
+    git clone git@github.com:gruberto/DL-ChannelDecoding.git
+    cd DL-ChannelDecoding/docker
     
 Build docker container which contains jupyter
 
