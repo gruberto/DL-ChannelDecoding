@@ -9,13 +9,21 @@ Build docker container which contains jupyter
     ./build_jupyter.sh
 
 # Start Jupyter
-Start jupyter with theano
+Start jupyter with theano on a CPU
 
-    ./run_jupyter.sh theano
+    ./run_jupyter_cpu.sh theano
+
+Start jupyter with theano on a GPU
+
+    ./run_jupyter_gpu.sh theano
     
-Start jupyter with Tensorflow
+Start jupyter with Tensorflow on a CPU
 
-    ./run_jupyter.sh tensorflow
+    ./run_jupyter_cpu.sh tensorflow
+
+Start jupyter with Tensorflow on a GPU
+
+    ./run_jupyter_gpu.sh tensorflow
 
 Access Jupyter Notebooks in a browser on
 
