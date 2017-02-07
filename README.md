@@ -17,14 +17,6 @@ Start jupyter with theano on a GPU
 
     ./run_jupyter_gpu.sh theano
     
-Start jupyter with Tensorflow on a CPU
-
-    ./run_jupyter_cpu.sh tensorflow
-
-Start jupyter with Tensorflow on a GPU
-
-    ./run_jupyter_gpu.sh tensorflow
-
 Access Jupyter Notebooks in a browser on
 
     http://[ip-adress]:8888
